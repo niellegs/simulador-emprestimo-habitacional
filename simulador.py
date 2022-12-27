@@ -9,4 +9,4 @@ limite = salario * 0.30
 if mensal < limite:
     print('Para pagar uma casa de R${:.2f} em {:.2f} anos a prestação será de R${:.2f}. Seu limite é {:.2f}. Empréstimo APROVADO! ' .format(casa, anos, mensal, limite))
 elif mensal > limite:
-    print('Para pagar uma casa de R${:.2f} em {:.2f} anos a prestação será de R${:.2f}. Seu limite é {:.2f}. Empréstimo NEGADO! ' .format(casa, anos, mensal, limite)
+    print('Para pagar uma casa de R${:.2f} em {:.2f} anos a prestação será de R${:.2f}. Seu limite é {:.2f}. Empréstimo NEGADO! ' .format(casa, anos, mensal, limite))
